@@ -5,7 +5,7 @@ import Details from './components/Details';
 import './App.css'
 
 import {Ripple,initTWE,} from "tw-elements";
-initTWE({ Ripple });
+// initTWE({ Ripple });
 
 
 var hand = "https://img.icons8.com/?size=100&id=78597&format=png&color=000000"
